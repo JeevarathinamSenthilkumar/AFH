@@ -1,0 +1,7 @@
+# Decorative background generation
+
+Built-in image generation, November 2, 2026. Final bundled asset: `assets/cessna-hero.webp` (1536 × 1024). The source PNG remains in the local generation output folder; the app depends only on the bundled WebP. No stock photograph is used by the final app.
+
+Prompt:
+
+> Use case: photorealistic-natural. Asset type: decorative photograph for a premium iPhone FAA eBook reader background and aviation hero card. Generate one original high-quality editorial-style photograph of a white Cessna 172 Skyhawk parked on a quiet sunlit airport apron in the western United States, three-quarter front view, entire airplane and both wing tips inside the frame, high wing, single nose propeller, correct tricycle landing gear, fine restrained silver and muted blue trim. Pale blue-gray morning sky, distant hazy mountains, warm pale concrete foreground. Natural elegant light, realistic aircraft proportions and engineering, sharp aircraft with soft atmospheric distance. Landscape 3:2 framing with generous clear space around aircraft, aircraft centered in upper-middle area of the photograph so the lower portion can be covered by app title. Calm neutral colors, premium aviation photography. No people, no text, no timestamp, no watermark, no signage, no visible registration letters. This image is decorative only; do not include any educational diagram or FAA handbook pages.

@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-02",
+  "results": [
+    {
+      "browser": "webkit",
+      "scope": "http://127.0.0.1:4174/pilot-path-flight/",
+      "subdirectory": true,
+      "chapterBoundary": true,
+      "firstAndLastPages": true,
+      "cachedRange": {
+        "status": 206,
+        "range": "bytes 0-99/6063336",
+        "length": 100,
+        "prefix": "%PDF"
+      },
+      "completedChapterCount": true,
+      "uncaughtErrors": []
+    },
+    {
+      "browser": "chrome",
+      "scope": "http://127.0.0.1:4174/pilot-path-flight/",
+      "subdirectory": true,
+      "chapterBoundary": true,
+      "firstAndLastPages": true,
+      "cachedRange": {
+        "status": 206,
+        "range": "bytes 0-99/6063336",
+        "length": 100,
+        "prefix": "%PDF"
+      },
+      "completedChapterCount": true,
+      "uncaughtErrors": []
+    }
+  ]
+}

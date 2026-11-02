@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-02",
+  "pages": 406,
+  "chapters": 18,
+  "pdfs": 22,
+  "coreAssets": 39,
+  "fullTextPages": 406,
+  "sourceTocEntries": 513,
+  "manifest": "valid",
+  "missingFiles": [],
+  "filesOverGithubLimit": [],
+  "largestFile": {
+    "path": "pdf/chapter-03.pdf",
+    "bytes": 42241987
+  },
+  "totalBytes": 299776494
+}

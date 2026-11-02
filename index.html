@@ -1,36 +1,25 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="theme-color" content="#08111f">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="description" content="Your personal flight learning companion. Study the complete FAA Airplane Flying Handbook with original illustrations and device-local progress.">
-<link rel="manifest" href="./manifest.webmanifest">
-<link rel="icon" href="./assets/icons/icon-192.png" type="image/png">
-<link rel="apple-touch-icon" href="./assets/icons/icon-180.png">
-<link rel="stylesheet" href="./src/css/app.css">
-<title>Pilot Path Flight</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#e8e9e6">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Pilot Path">
+  <meta name="description" content="The original FAA Airplane Flying Handbook. A quiet place to read, page by page.">
+  <title>Pilot Path Flight</title>
+  <link rel="icon" href="./assets/icons/app.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="./assets/icons/apple-touch-icon.png">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="stylesheet" href="./src/css/app.css">
 </head>
 <body>
-<a href="#main" class="skip">Skip to content</a>
-<header class="app-header">
-<a class="brand" href="#home" aria-label="Pilot Path Flight home"><span class="brand-mark"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="m12 2 1.5 7 7 4v2l-7-2v5l3 2v1L12 20l-4.5 1v-1l3-2v-5l-7 2v-2l7-4L12 2Z"/></svg></span><span>Pilot Path <b>Flight</b><small>MAKE ROOM FOR THE SKY</small></span></a>
-<div class="header-actions"><span id="connection" class="connection"><i></i> On device</span><button class="icon-button" data-action="search" aria-label="Search the handbook"><svg><use href="./assets/icons/sprite.svg#search"/></svg></button><button class="icon-button" data-action="settings" aria-label="Reading settings and app information"><svg><use href="./assets/icons/sprite.svg#settings-2"/></svg></button></div>
-</header>
-<main id="main" tabindex="-1"><div class="loading"><span class="spinner"></span>Preparing your flight library…</div></main>
-<nav class="tabbar" aria-label="Main navigation">
-<a href="#home" data-tab="home"><svg><use href="./assets/icons/sprite.svg#house"/></svg><span>Home</span></a>
-<a href="#learn" data-tab="learn"><svg><use href="./assets/icons/sprite.svg#book-open"/></svg><span>Learn</span></a>
-<a href="#exams" data-tab="exams"><svg><use href="./assets/icons/sprite.svg#clipboard-check"/></svg><span>Exams</span></a>
-<a href="#progress" data-tab="progress"><svg><use href="./assets/icons/sprite.svg#chart-no-axes-combined"/></svg><span>Progress</span></a>
-</nav>
-<div id="toast" class="toast" role="status" aria-live="polite"></div>
-<dialog id="sheet"><div class="sheet-top"><h2 id="sheet-title"></h2><button class="icon-button" data-action="close-sheet" aria-label="Close panel"><svg><use href="./assets/icons/sprite.svg#x"/></svg></button></div><div id="sheet-body"></div></dialog>
-<dialog id="image-viewer" class="image-viewer"><div class="viewer-top"><p id="viewer-title"></p><div><button class="icon-button" data-action="zoom-out" aria-label="Zoom out"><svg><use href="./assets/icons/sprite.svg#zoom-out"/></svg></button><button class="icon-button" data-action="zoom-in" aria-label="Zoom in"><svg><use href="./assets/icons/sprite.svg#zoom-in"/></svg></button><button class="icon-button" data-action="close-image" aria-label="Close image"><svg><use href="./assets/icons/sprite.svg#x"/></svg></button></div></div><div class="image-scroll"><img id="viewer-img" alt=""></div><p class="viewer-hint">Use + / − to zoom. Scroll to inspect the complete image.</p></dialog>
-<input id="import-file" type="file" accept="application/json,.json" hidden>
-<noscript><p class="notice">Pilot Path Flight needs JavaScript to load chapter content and save your progress.</p></noscript>
-<script type="module" src="./src/js/app.js"></script>
+  <div class="ambient" aria-hidden="true"></div>
+  <main id="app"><div class="boot"><span class="spinner"></span><p>Pilot Path Flight</p></div></main>
+  <div id="toast" class="toast" role="status" hidden></div>
+  <dialog id="sheet" aria-label="Reader options"></dialog>
+  <noscript>This reader requires JavaScript to display the original PDF pages.</noscript>
+  <script type="module" src="./src/js/app.js"></script>
 </body>
 </html>

@@ -1,0 +1,166 @@
+{
+  "date": "2026-11-02",
+  "base": "http://127.0.0.1:4173/",
+  "results": [
+    {
+      "browser": "webkit",
+      "test": "18-chapter Library; exact official titles; no PDF prefetch",
+      "status": "passed"
+    },
+    {
+      "browser": "webkit",
+      "test": "Chapter overview, contents, Open Chapter and original PDF rendering",
+      "status": "passed",
+      "w": 792,
+      "h": 1025,
+      "ink": 399809
+    },
+    {
+      "browser": "webkit",
+      "test": "Automatic completion after deliberate forward navigation; brief appearances ignored",
+      "status": "passed"
+    },
+    {
+      "browser": "webkit",
+      "test": "Manual incomplete override, manual complete override, refresh persistence",
+      "status": "passed"
+    },
+    {
+      "browser": "webkit",
+      "test": "Page chooser jumps directly without completing earlier pages",
+      "status": "passed"
+    },
+    {
+      "browser": "webkit",
+      "test": "Zoom controls, synthetic pinch/pan handlers, focus mode and tap to restore",
+      "status": "passed"
+    },
+    {
+      "browser": "webkit",
+      "test": "Accurate chapter/overall progress, Continue Reading and Resume Reading",
+      "status": "passed"
+    },
+    {
+      "browser": "webkit",
+      "test": "Full-text crosswind search grounded in source; result opens precise original page",
+      "status": "passed",
+      "group": "chapter-06",
+      "page": 6
+    },
+    {
+      "browser": "webkit",
+      "test": "Chapter-title search and no-results state",
+      "status": "passed"
+    },
+    {
+      "browser": "webkit",
+      "test": "Offline shell reload, explicit chapter download, offline PDF and search with test server stopped",
+      "status": "passed",
+      "cachedPdfs": 3
+    },
+    {
+      "browser": "webkit",
+      "test": "Uncached chapter gives a useful offline error",
+      "status": "passed"
+    },
+    {
+      "browser": "webkit",
+      "test": "Separate four-page FAA addendum; excluded from book progress",
+      "status": "passed"
+    },
+    {
+      "browser": "webkit",
+      "test": "360 / 420 / 440px portrait, landscape, full-page fit and simulated safe-area padding",
+      "status": "passed"
+    },
+    {
+      "browser": "webkit",
+      "test": "No uncaught JavaScript errors",
+      "status": "passed"
+    },
+    {
+      "browser": "chrome",
+      "test": "18-chapter Library; exact official titles; no PDF prefetch",
+      "status": "passed"
+    },
+    {
+      "browser": "chrome",
+      "test": "Chapter overview, contents, Open Chapter and original PDF rendering",
+      "status": "passed",
+      "w": 792,
+      "h": 1025,
+      "ink": 393776
+    },
+    {
+      "browser": "chrome",
+      "test": "Automatic completion after deliberate forward navigation; brief appearances ignored",
+      "status": "passed"
+    },
+    {
+      "browser": "chrome",
+      "test": "Manual incomplete override, manual complete override, refresh persistence",
+      "status": "passed"
+    },
+    {
+      "browser": "chrome",
+      "test": "Page chooser jumps directly without completing earlier pages",
+      "status": "passed"
+    },
+    {
+      "browser": "chrome",
+      "test": "Zoom controls, synthetic pinch/pan handlers, focus mode and tap to restore",
+      "status": "passed"
+    },
+    {
+      "browser": "chrome",
+      "test": "Accurate chapter/overall progress, Continue Reading and Resume Reading",
+      "status": "passed"
+    },
+    {
+      "browser": "chrome",
+      "test": "Full-text crosswind search grounded in source; result opens precise original page",
+      "status": "passed",
+      "group": "chapter-06",
+      "page": 6
+    },
+    {
+      "browser": "chrome",
+      "test": "Chapter-title search and no-results state",
+      "status": "passed"
+    },
+    {
+      "browser": "chrome",
+      "test": "Offline shell reload, explicit chapter download, offline PDF and search with test server stopped",
+      "status": "passed",
+      "cachedPdfs": 3
+    },
+    {
+      "browser": "chrome",
+      "test": "Uncached chapter gives a useful offline error",
+      "status": "passed"
+    },
+    {
+      "browser": "chrome",
+      "test": "Separate four-page FAA addendum; excluded from book progress",
+      "status": "passed"
+    },
+    {
+      "browser": "chrome",
+      "test": "360 / 420 / 440px portrait, landscape, full-page fit and simulated safe-area padding",
+      "status": "passed"
+    },
+    {
+      "browser": "chrome",
+      "test": "No uncaught JavaScript errors",
+      "status": "passed"
+    }
+  ],
+  "errors": [],
+  "limitations": [
+    "WebKit automation is not a physical iPhone Air or an iOS Simulator.",
+    "Pinch and pan handlers used synthetic touch pointer events; physical multi-touch remains untested.",
+    "Safe-area padding was simulated with 59px top and 34px bottom; actual Dynamic Island and Home indicator behavior needs device confirmation.",
+    "Home Screen installation requires HTTPS hosting and manual iPhone Safari confirmation; not claimed tested.",
+    "Offline tests stopped the isolated HTTP server and simulated the browser offline indicator. Playwright context.setOffline fails inside WebKit before service-worker interception, so that emulation mode was not used."
+  ]
+}
