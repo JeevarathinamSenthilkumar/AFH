@@ -1,0 +1,542 @@
+{
+  "chapter-01": [
+    {
+      "question": "What is the overall purpose of primary and intermediate flight training?",
+      "options": [
+        "To acquire and hone basic airmanship skills",
+        "To memorize one aircraft model only",
+        "To finish training as quickly as possible"
+      ],
+      "correct": 0,
+      "explanation": "The introduction identifies basic airmanship as the foundation: knowledge, skill, experience, and sound judgment.",
+      "page": "1-1",
+      "lessonId": "chapter-01-p001",
+      "sourceEvidence": "acquisition and honing of basic",
+      "supplemental": true
+    },
+    {
+      "question": "Which ability does the handbook call “control touch”?",
+      "options": [
+        "Using the controls with maximum force",
+        "Keeping the controls motionless throughout flight",
+        "Sensing the airplane’s action through control pressures and resistance"
+      ],
+      "correct": 2,
+      "explanation": "Control touch includes sensing the airplane’s actions and anticipating attitude and speed variations through the flight controls.",
+      "page": "1-1",
+      "lessonId": "chapter-01-p001",
+      "sourceEvidence": "Control touch",
+      "supplemental": true
+    }
+  ],
+  "chapter-02": [
+    {
+      "question": "Why must a lower grade of fuel never replace a required higher grade?",
+      "options": [
+        "It makes the engine turn backward",
+        "It always improves power too much",
+        "It can cause destructive detonation"
+      ],
+      "correct": 2,
+      "explanation": "The handbook warns that detonation can severely damage an engine in a very short time. Follow the specified fuel requirements.",
+      "page": "2-7",
+      "lessonId": "chapter-02-p007",
+      "sourceEvidence": "Fuel of a lower grade should never be substituted",
+      "supplemental": true
+    },
+    {
+      "question": "What should preflight assessment primarily mitigate?",
+      "options": [
+        "The need to consult aircraft documents",
+        "Airplane flight hazards",
+        "Only cosmetic imperfections"
+      ],
+      "correct": 1,
+      "explanation": "The preflight assessment is a hazard check, including inspection status, equipment, risk, and AFM/POH procedures.",
+      "page": "2-1",
+      "lessonId": "chapter-02-p001",
+      "sourceEvidence": "preflight assessment mitigates airplane flight hazards",
+      "supplemental": true
+    }
+  ],
+  "chapter-03": [
+    {
+      "question": "Which list contains the four fundamentals of airplane flight?",
+      "options": [
+        "Spins, rolls, loops, and inverted flight",
+        "Straight-and-level flight, turns, climbs, and descents",
+        "Taxiing, parking, fueling, and shutdown"
+      ],
+      "correct": 1,
+      "explanation": "All flying tasks build on these four fundamental maneuvers.",
+      "page": "3-1",
+      "lessonId": "chapter-03-p001",
+      "sourceEvidence": "straight-and-level flight, turns, climbs, and descents",
+      "supplemental": true
+    },
+    {
+      "question": "An airplane rotates about which three axes of motion?",
+      "options": [
+        "Roll, pitch, and yaw",
+        "Only vertical and horizontal motion",
+        "Thrust, drag, and lift"
+      ],
+      "correct": 0,
+      "explanation": "The introduction distinguishes rotational motions—roll, pitch and yaw—from horizontal, vertical and lateral movement.",
+      "page": "3-1",
+      "lessonId": "chapter-03-p001",
+      "sourceEvidence": "bank, pitch, and yaw",
+      "supplemental": true
+    }
+  ],
+  "chapter-04": [
+    {
+      "question": "What two targets are central to this chapter’s energy-centered approach?",
+      "options": [
+        "Altitude and airspeed",
+        "Heading and radio volume",
+        "Oil temperature and cabin pressure"
+      ],
+      "correct": 0,
+      "explanation": "Chapter 4 presents energy management as controlling altitude and airspeed in relation to the airplane’s energy state.",
+      "page": "4-1",
+      "lessonId": "chapter-04-p001",
+      "sourceEvidence": "managing the airplane’s altitude and airspeed",
+      "supplemental": true
+    },
+    {
+      "question": "Which two controls does the chapter coordinate to manage energy state?",
+      "options": [
+        "Radio and transponder",
+        "Mixture and cabin heat only",
+        "Throttle and elevator"
+      ],
+      "correct": 2,
+      "explanation": "The chapter explains the coordinated roles of throttle and elevator, including their qualifications and limitations in different energy conditions.",
+      "page": "4-3",
+      "lessonId": "chapter-04-p003",
+      "sourceEvidence": "coordinates the throttle and elevator",
+      "supplemental": true
+    }
+  ],
+  "chapter-05": [
+    {
+      "question": "An aerodynamic stall is directly related to which quantity?",
+      "options": [
+        "Airspeed alone",
+        "Height above the ground alone",
+        "Angle of attack"
+      ],
+      "correct": 2,
+      "explanation": "The introduction explicitly distinguishes the stall’s direct relationship to angle of attack from airspeed.",
+      "page": "5-1",
+      "lessonId": "chapter-05-p001",
+      "sourceEvidence": "stalls are directly related to angle of attack",
+      "supplemental": true
+    },
+    {
+      "question": "What does UPRT emphasize before an upset occurs?",
+      "options": [
+        "Ignoring developing energy or attitude problems",
+        "Understanding and preventing an upset",
+        "Intentionally entering every possible upset"
+      ],
+      "correct": 1,
+      "explanation": "Upset prevention and recovery training emphasizes understanding and prevention as well as appropriate recovery.",
+      "page": "5-1",
+      "lessonId": "chapter-05-p001",
+      "sourceEvidence": "understanding and preventing an upset",
+      "supplemental": true
+    }
+  ],
+  "chapter-06": [
+    {
+      "question": "Where is ground effect normally encountered?",
+      "options": [
+        "Only when the airplane is parked",
+        "Very close to the ground, up to about one wingspan above the surface",
+        "Only above the service ceiling"
+      ],
+      "correct": 1,
+      "explanation": "Chapter 6 describes ground effect as improved performance near the ground and notes that its strength depends on height and flight condition.",
+      "page": "6-10",
+      "lessonId": "chapter-06-p010",
+      "sourceEvidence": "altitude equal to one wingspan above the surface",
+      "supplemental": true
+    },
+    {
+      "question": "What is the takeoff roll?",
+      "options": [
+        "The part of takeoff when the airplane accelerates from standstill to liftoff",
+        "A roll maneuver after reaching cruise altitude",
+        "Only the climb after the wheels leave the runway"
+      ],
+      "correct": 0,
+      "explanation": "The chapter distinguishes takeoff roll, lift-off, and initial climb. Aircraft-specific technique remains in the AFM/POH.",
+      "page": "6-1",
+      "lessonId": "chapter-06-p001",
+      "sourceEvidence": "from a standstill to an airspeed that provides sufficient lift",
+      "supplemental": true
+    }
+  ],
+  "chapter-07": [
+    {
+      "question": "Why is a wind-correction angle needed for a straight ground track?",
+      "options": [
+        "To cancel the airplane’s drift with a heading into the wind",
+        "To increase drift away from the planned track",
+        "To keep the heading fixed regardless of the wind"
+      ],
+      "correct": 0,
+      "explanation": "The wind changes the relationship between heading and ground track. A suitable wind-correction angle neutralizes drift.",
+      "page": "7-2",
+      "lessonId": "chapter-07-p002",
+      "sourceEvidence": "When the drift has been neutralized",
+      "supplemental": true
+    },
+    {
+      "question": "What do ground reference maneuvers help a pilot apply?",
+      "options": [
+        "Instrument-only navigation without outside references",
+        "A single fixed control input in every wind",
+        "Flight control while dividing attention between the flightpath and ground references"
+      ],
+      "correct": 2,
+      "explanation": "The introduction describes accurate flight control, division of attention, and the effects of wind on the ground track.",
+      "page": "7-1",
+      "lessonId": "chapter-07-p001",
+      "sourceEvidence": "division of attention",
+      "supplemental": true
+    }
+  ],
+  "chapter-08": [
+    {
+      "question": "Which turn direction is standard in a traffic pattern unless right turns are indicated?",
+      "options": [
+        "Right at every airport",
+        "Whichever direction is shortest",
+        "Left"
+      ],
+      "correct": 2,
+      "explanation": "The chapter says to turn left unless the airport indicates that turns should be made to the right. Check the actual airport procedures.",
+      "page": "8-1",
+      "lessonId": "chapter-08-p001",
+      "sourceEvidence": "make all turns in the pattern to the left",
+      "supplemental": true
+    },
+    {
+      "question": "Why does the chapter emphasize a common traffic pattern altitude?",
+      "options": [
+        "To make every airport’s elevation identical",
+        "To help minimize collision risk",
+        "To eliminate the need for visual scanning"
+      ],
+      "correct": 1,
+      "explanation": "A common altitude is described as a key factor in minimizing collision risk. The chapter’s usual altitude is not a substitute for published airport procedures.",
+      "page": "8-1",
+      "lessonId": "chapter-08-p001",
+      "sourceEvidence": "use of a common altitude",
+      "supplemental": true
+    }
+  ],
+  "chapter-09": [
+    {
+      "question": "Where are the aircraft-specific recommended approach and landing procedures found?",
+      "options": [
+        "In another model’s checklist",
+        "In the approved AFM/POH for the airplane",
+        "Only in a generic maneuver diagram"
+      ],
+      "correct": 1,
+      "explanation": "The chapter states that manufacturer procedures, configurations, and airspeeds for a specific airplane are in its AFM/POH and take precedence over conflicting generic guidance.",
+      "page": "9-1",
+      "lessonId": "chapter-09-p001",
+      "sourceEvidence": "manufacturer’s recommendations take precedence",
+      "supplemental": true
+    },
+    {
+      "question": "Which is one stated reason to use flaps on approach?",
+      "options": [
+        "Producing greater drag and permitting a steeper descent angle",
+        "Guaranteeing that any approach can be salvaged",
+        "Removing the need to control airspeed"
+      ],
+      "correct": 0,
+      "explanation": "Chapter 9 lists several functions of flaps, including increasing drag for a steeper descent. Their use must follow aircraft-specific limits and procedures.",
+      "page": "9-1",
+      "lessonId": "chapter-09-p001",
+      "sourceEvidence": "Producing greater drag and permitting a steeper descent angle",
+      "supplemental": true
+    }
+  ],
+  "chapter-10": [
+    {
+      "question": "What bank-angle range does this chapter describe for steep turns?",
+      "options": [
+        "45° to 60°",
+        "5° to 10°",
+        "Always exactly 90°"
+      ],
+      "correct": 0,
+      "explanation": "The description uses a bank angle between 45° and 60° for its discussion of steep turns. Follow the applicable aircraft and training qualifications.",
+      "page": "10-1",
+      "lessonId": "chapter-10-p001",
+      "sourceEvidence": "bank angle between 45° and 60°",
+      "supplemental": true
+    },
+    {
+      "question": "What is a primary purpose of practicing performance maneuvers?",
+      "options": [
+        "To replace the fundamental maneuvers",
+        "To eliminate the need to scan for traffic",
+        "To develop higher skill, coordination, and awareness"
+      ],
+      "correct": 2,
+      "explanation": "The chapter builds on fundamentals to develop a higher degree of pilot skill, coordination, and division of attention.",
+      "page": "10-1",
+      "lessonId": "chapter-10-p001",
+      "sourceEvidence": "enhance a pilot’s proficiency",
+      "supplemental": true
+    }
+  ],
+  "chapter-11": [
+    {
+      "question": "How long can maximum dark adaptation take?",
+      "options": [
+        "Always less than one second",
+        "Several days without interruption",
+        "Up to 30 minutes"
+      ],
+      "correct": 2,
+      "explanation": "The handbook notes that sensitivity to light develops gradually and maximum dark adaptation can take up to 30 minutes.",
+      "page": "11-3",
+      "lessonId": "chapter-11-p003",
+      "sourceEvidence": "Maximum dark adaptation can take up to 30 minutes",
+      "supplemental": true
+    },
+    {
+      "question": "What happens after dark-adapted eyes are exposed to a bright light for a second or more?",
+      "options": [
+        "There is never any effect",
+        "Night vision is temporarily impaired",
+        "Night vision instantly becomes stronger"
+      ],
+      "correct": 1,
+      "explanation": "The chapter distinguishes brief anti-collision flashes from sustained bright-light exposure that can temporarily impair night vision.",
+      "page": "11-3",
+      "lessonId": "chapter-11-p003",
+      "sourceEvidence": "night vision is temporarily impaired",
+      "supplemental": true
+    }
+  ],
+  "chapter-12": [
+    {
+      "question": "What does a constant-speed propeller adjust during most flight conditions?",
+      "options": [
+        "Landing gear position",
+        "Blade angle",
+        "Wing area"
+      ],
+      "correct": 1,
+      "explanation": "The propeller governor adjusts blade angle while the pilot selects the desired engine rpm with the propeller control.",
+      "page": "12-5",
+      "lessonId": "chapter-12-p005",
+      "sourceEvidence": "keeps the blade angle adjusted",
+      "supplemental": true
+    },
+    {
+      "question": "How does the pilot control engine rpm with the constant-speed system described here?",
+      "options": [
+        "Indirectly, through a propeller control connected to the governor",
+        "By selecting flap position",
+        "By changing the transponder code"
+      ],
+      "correct": 0,
+      "explanation": "The chapter explains the relationship between the propeller control, governor, blade angle, and engine rpm.",
+      "page": "12-5",
+      "lessonId": "chapter-12-p005",
+      "sourceEvidence": "pilot controls the engine rpm indirectly",
+      "supplemental": true
+    }
+  ],
+  "chapter-13": [
+    {
+      "question": "What control problem is created by failure of one engine in a conventional light twin?",
+      "options": [
+        "Asymmetrical thrust",
+        "A guarantee of unlimited climb performance",
+        "Automatic elimination of drag"
+      ],
+      "correct": 0,
+      "explanation": "After an engine failure, both remaining performance and asymmetrical-thrust control issues demand attention.",
+      "page": "13-1",
+      "lessonId": "chapter-13-p001",
+      "sourceEvidence": "asymmetrical thrust also creates control issues",
+      "supplemental": true
+    },
+    {
+      "question": "Does losing one engine in a light twin normally mean losing only half the climb performance?",
+      "options": [
+        "Yes; climb performance always falls by exactly half",
+        "No; climb performance always increases",
+        "No; climb performance can fall by 80 to 90 percent"
+      ],
+      "correct": 2,
+      "explanation": "Chapter 13 notes a typical 80–90 percent climb-performance loss, and sometimes loss of the ability to climb or maintain altitude. It is not an aircraft-specific performance guarantee.",
+      "page": "13-1",
+      "lessonId": "chapter-13-p001",
+      "sourceEvidence": "80 to 90 percent",
+      "supplemental": true
+    }
+  ],
+  "chapter-14": [
+    {
+      "question": "Where are a conventional tailwheel airplane’s main landing gear relative to its center of gravity?",
+      "options": [
+        "Always behind it",
+        "At the top of the vertical stabilizer",
+        "Slightly ahead of it"
+      ],
+      "correct": 2,
+      "explanation": "This geometry contributes to the directional handling differences discussed in Chapter 14.",
+      "page": "14-1",
+      "lessonId": "chapter-14-p001",
+      "sourceEvidence": "slightly ahead of the airplane’s",
+      "supplemental": true
+    },
+    {
+      "question": "Which control is crucial for directional control while taxiing a tailwheel airplane?",
+      "options": [
+        "The cabin air vent",
+        "Proper use of the rudder pedals",
+        "Elevator trim alone"
+      ],
+      "correct": 1,
+      "explanation": "The chapter stresses proper rudder-pedal usage for directional control during taxi.",
+      "page": "14-1",
+      "lessonId": "chapter-14-p001",
+      "sourceEvidence": "rudder pedals is crucial for directional control while taxiing",
+      "supplemental": true
+    }
+  ],
+  "chapter-15": [
+    {
+      "question": "What do piston engines and gas turbines have in common?",
+      "options": [
+        "Neither compresses air",
+        "Both are internal combustion engines",
+        "Both must use identical operating procedures"
+      ],
+      "correct": 1,
+      "explanation": "The chapter compares their common operating cycle while explaining important differences in how that cycle is produced.",
+      "page": "15-1",
+      "lessonId": "chapter-15-p001",
+      "sourceEvidence": "both piston (reciprocating) engines and gas turbine engines are internal combustion engines",
+      "supplemental": true
+    },
+    {
+      "question": "Which propeller capabilities does the introduction associate with a turbopropeller-powered airplane?",
+      "options": [
+        "Constant speed, full feathering, and reversing",
+        "Only a fixed-pitch wooden propeller",
+        "No propeller at all"
+      ],
+      "correct": 0,
+      "explanation": "These capabilities are discussed in Chapter 15; actual systems and procedures must be learned for the specific airplane.",
+      "page": "15-1",
+      "lessonId": "chapter-15-p001",
+      "sourceEvidence": "full feathering and reversing propeller",
+      "supplemental": true
+    }
+  ],
+  "chapter-16": [
+    {
+      "question": "Why is the jet-powered airplane’s ground-safety discussion concerned about an operating engine inlet?",
+      "options": [
+        "Its suction can draw in people or objects",
+        "It prevents every possible ramp hazard",
+        "It can only affect objects inside the cockpit"
+      ],
+      "correct": 0,
+      "explanation": "Chapter 16 warns about the suction created by an operating turbine inlet and the resulting hazard near the airplane.",
+      "page": "16-1",
+      "lessonId": "chapter-16-p001",
+      "sourceEvidence": "pull a nearby person into the fan",
+      "supplemental": true
+    },
+    {
+      "question": "Where does the introduction direct the reader for airplane-specific jet operating information?",
+      "options": [
+        "A generic maneuver diagram alone",
+        "Any unrelated airplane’s checklist",
+        "The FAA-approved Airplane Flight Manual for that airplane"
+      ],
+      "correct": 2,
+      "explanation": "The chapter introduces general principles and directs the reader to the aircraft’s approved AFM for airplane-specific information.",
+      "page": "16-1",
+      "lessonId": "chapter-16-p001",
+      "sourceEvidence": "refer to the FAA-approved Airplane Flight Manual",
+      "supplemental": true
+    }
+  ],
+  "chapter-17": [
+    {
+      "question": "How can high drag combined with low mass affect an LSA when power is reduced?",
+      "options": [
+        "It guarantees a long power-off glide",
+        "It prevents all changes in airspeed",
+        "It can decelerate rapidly"
+      ],
+      "correct": 2,
+      "explanation": "The original Chapter 17 explains this energy-management characteristic. Read the separate October 2025 FAA update as well; the original chapter is preserved for fidelity.",
+      "page": "17-15",
+      "lessonId": "chapter-17-p015",
+      "sourceEvidence": "these LSAs tend to decelerate rapidly",
+      "supplemental": true
+    },
+    {
+      "question": "How should you interpret the original Chapter 17 alongside the October 2025 FAA addendum?",
+      "options": [
+        "Ignore aircraft-specific operating guidance",
+        "Read the original with the separately identified update",
+        "Assume every 2021 regulatory detail is still current"
+      ],
+      "correct": 1,
+      "explanation": "The addendum calls for future removal and redistribution of Chapter 17. This app keeps the original chapter intact and presents the update separately.",
+      "page": "17-1",
+      "lessonId": "chapter-17-p001",
+      "sourceEvidence": "light-sport aircraft",
+      "supplemental": true
+    }
+  ],
+  "chapter-18": [
+    {
+      "question": "What makes a forced landing different from an ordinary planned landing?",
+      "options": [
+        "It guarantees use of a prepared runway",
+        "An emergency requires an immediate landing and further flight cannot be continued",
+        "It is always conducted at a scheduled destination"
+      ],
+      "correct": 1,
+      "explanation": "The emergency-landing definitions distinguish forced and precautionary landings. Their full qualifications and procedures remain in the chapter.",
+      "page": "18-1",
+      "lessonId": "chapter-18-p001",
+      "sourceEvidence": "inability to continue further",
+      "supplemental": true
+    },
+    {
+      "question": "If the chapter’s generic emergency guidance conflicts with the airplane manufacturer’s procedures, which takes precedence?",
+      "options": [
+        "The manufacturer’s recommended procedures",
+        "The generic chapter regardless of the airplane",
+        "An unrelated airplane’s checklist"
+      ],
+      "correct": 0,
+      "explanation": "The introduction explicitly gives precedence to the manufacturer’s procedures for the particular make and model.",
+      "page": "18-1",
+      "lessonId": "chapter-18-p001",
+      "sourceEvidence": "manufacturer’s recommended procedures take precedence",
+      "supplemental": true
+    }
+  ]
+}
